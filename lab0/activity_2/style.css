@@ -56,8 +56,8 @@ body {
     gap: 5px;
     width: 100%; 
 }
-#main:not(h3) {
+/* #main:not(h3) {
     border: 1px solid #333;
     padding: 10px;
     text-align: center;
-}
+} */
